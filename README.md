@@ -11,7 +11,7 @@
 * **SublimeLinter-JSCS** - Ativa o linter automático no Sublime para erros no padrão especificado no JSCS
 * **All Autocomplete** - Autocomplete para arquivos abertos
 * **SideBarEnhancements** - Várias funcionalidades extras para o clique direito do mouse na sidebar
-* **Markdown Preview** - VIsualizar preview de Markdown
+* **Markdown Preview** - Visualizar preview de Markdown
 
 ## NPM global
 * `sudo npm install -g bower` -  usado para gerenciar os pacotes do frontend (Sim, prefiro bower ao npm, npm pra mim é pra módulos do node, já nota-se ***node_modules*** do **npm**)
